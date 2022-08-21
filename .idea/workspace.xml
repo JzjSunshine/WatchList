@@ -2,26 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cd6c4df-3b0f-4e75-b790-1b6580771daf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/api/v1/endpoints/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/models/movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/models/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/test/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api/data/watchlist.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/schemas/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/schemas/movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/schemas/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tests/pyTestStudy/test_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/tests/test_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/watchlist.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/img/totoro.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Layout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/WatchFoter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/WatchHeader.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/myFastAPIVue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myFastAPIVue.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api/v1/endpoints/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/api/v1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api/v1/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/api/v1/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api/v1/endpoints/login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/api/v1/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api/v1/endpoints/movie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/api/v1/user.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/core/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/core/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/v1/endpoints/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api/v1/endpoints/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/v1/endpoints/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api/v1/endpoints/movie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/v1/endpoints/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api/v1/endpoints/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/core/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/core/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/core/deps.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/core/deps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/core/security.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/core/security.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/models/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/models/movie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/models/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/models/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/schemas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/schemas/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/test/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/tests/test_movie.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +50,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="vuejs" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -56,6 +76,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -66,19 +87,28 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="credentialsType com.jetbrains.python.remote.PyCreateRemoteInterpreterDialog$PyCreateRemoteSdkForm" value="Web Deployment" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/src/assets" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\work\fastapiProject\demo\WatchList\backend" />
-      <recent name="D:\work\fastapiProject\demo\WatchList\backend\api\v1\endpoints" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\work\python\fastapiProject\myFastAPIVue\frontend\src\assets" />
+      <recent name="H:\work\python\fastapiProject\myFastAPIVue\frontend\public" />
       <recent name="H:\work\python\fastapiProject\myFastAPIVue\backend" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\work\python\fastapiProject\myFastAPIVue\frontend" />
+      <recent name="H:\work\python\fastapiProject\myFastAPIVue\backend\tests\asynceAwait" />
+      <recent name="H:\work\python\fastapiProject\myFastAPIVue\backend\api\v1\endpoints" />
+      <recent name="H:\work\python\fastapiProject\myFastAPIVue\backend" />
+      <recent name="H:\work\python\fastapiProject\myFastAPIVue\backend\api" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.test_user">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="myFastAPIVue" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,8 +153,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_movie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myFastAPIVue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/tests/test_movie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_user" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myFastAPIVue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/tests/test_user.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_user" />
+        <item itemvalue="Python.test_movie" />
         <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
@@ -157,8 +233,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/WatchList$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1660895180092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
+    <SUITE FILE_PATH="coverage/myFastAPIVue$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1661066033222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
+    <SUITE FILE_PATH="coverage/myFastAPIVue$test_movie.coverage" NAME="test_movie Coverage Results" MODIFIED="1661070821906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/tests" />
+    <SUITE FILE_PATH="coverage/myFastAPIVue$test_user.coverage" NAME="test_user Coverage Results" MODIFIED="1661075750943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/tests" />
   </component>
 </project>
